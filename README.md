@@ -2,10 +2,6 @@
 
 An Flutter App to create/Join Webinar with Ease using Agora.io'.
 
-## Getting Started
-
-This project is 
-
 ## Features
 1. Create Webinar with name
 2. Join Webinar with code

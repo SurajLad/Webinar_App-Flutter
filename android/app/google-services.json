@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182761136001",
+    "firebase_url": "https://ezwebinar.firebaseio.com",
+    "project_id": "ezwebinar",
+    "storage_bucket": "ezwebinar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182761136001:android:66b1878252f2663b305280",
+        "android_client_info": {
+          "package_name": "com.svl.ezwebinar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182761136001-pi776k9pf6nnhd3eqcuq6a2run0l2f8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlEE3UZv_cz-UaLoJRe0OtrhvW1llMq_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182761136001-pi776k9pf6nnhd3eqcuq6a2run0l2f8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
